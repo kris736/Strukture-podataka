@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\vjezbe\\vjezba2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B86BFB3-82BC-4D98-B6B3-66C00690EA86}|vjezba2\\vjezba2.vcxproj|C:\\Users\\Korisnik\\Desktop\\vjezbe\\vjezba2\\vjezba2\\vjezba2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6B86BFB3-82BC-4D98-B6B3-66C00690EA86}|vjezba2\\vjezba2.vcxproj|solutionrelative:vjezba2\\vjezba2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AA53D7D4-5AD0-4692-A171-F833CABCED24}|vjezba2\\vjezba2.vcxproj|C:\\Users\\Korisnik\\Desktop\\vjezbe\\vjezba2\\vjezba2\\vjezba2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA53D7D4-5AD0-4692-A171-F833CABCED24}|vjezba2\\vjezba2.vcxproj|solutionrelative:vjezba2\\vjezba2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "vjezba2\\vjezba2.c",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\vjezbe\\vjezba2\\vjezba2\\vjezba2.c",
               "RelativeToolTip": "vjezba2\\vjezba2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAAL4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-10-16T21:09:27.928Z",
+              "WhenOpened": "2026-10-20T19:31:06.569Z",
               "EditorCaption": ""
             }
           ]
