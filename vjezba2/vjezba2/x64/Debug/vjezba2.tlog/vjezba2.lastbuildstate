@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.51.36231:VCServicingVersionATL=14.51.36244:VCServicingVersionCrtHeaders=14.51.36244:VCServicingVersionCompilers=14.51.36260:TargetPlatformVersion=10.0.26100.0:
 Debug|x64|C:\Users\Korisnik\Desktop\vjezbe\vjezba2\|
+=======
+PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.51.36231:VCServicingVersionATL=14.51.36244:VCServicingVersionCrtHeaders=14.51.36244:VCServicingVersionCompilers=14.51.36260:TargetPlatformVersion=10.0.26100.0:
+Debug|x64|C:\Users\Korisnik\Desktop\vjezbe\vjezba2\|
+>>>>>>> d9c686f24706965cebed2942cd118f42a71d13da
